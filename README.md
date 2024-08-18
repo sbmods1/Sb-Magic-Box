@@ -26,4 +26,7 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
     cd advanced-box-customizer
     ```
 3. Open `index.html` in a web browser to interact with the customizable box. Adjust the sliders and color pickers to see the changes applied in real-time.
+
 # Credit by Sb Mods
+please joni for more projects in this
+channel : https://t.me/SbMods54
