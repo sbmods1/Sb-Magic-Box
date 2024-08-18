@@ -19,7 +19,7 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/advanced-box-customizer.git
+    git clone https://github.com/sbmods1/Sb-Magic-Box
     ```
 2. Navigate to the project directory:
     ```bash
