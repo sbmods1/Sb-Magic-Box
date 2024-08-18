@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: white;
 }
 
 body {
@@ -11,6 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
 }
 
 .container {
@@ -18,14 +18,32 @@ body {
 }
 
 .box {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border: 2px solid black;
     transition: all 0.4s ease;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    text-align: center;
 }
 
 .controls {
     margin-top: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 label {
@@ -33,14 +51,21 @@ label {
     margin: 10px 0 5px;
 }
 
-input[type="range"] {
+input[type="range"], input[type="text"], input[type="file"], input[type="color"] {
     width: 100%;
+    margin-bottom: 10px;
 }
 
-input[type="color"] {
-    width: 100px;
-    height: 30px;
-    padding: 0;
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
     border: none;
+    border-radius: 5px;
     cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
 }
