@@ -25,7 +25,10 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
     ```bash
     cd Sb-Magic-Box-main
     ```
-3. Open `index.html` in a web browser to interact with the customizable box. Adjust the sliders and color pickers to see the changes applied in real-time.
+3. You can see it preview here:
+   https://sbmodsviptest.tiiny.site
+   
+4. Open `index.html` in a web browser to interact with the customizable box. Adjust the sliders and color pickers to see the changes applied in real-time.
 
 # Credit by Sb Mods
 please joni for more projects in this
