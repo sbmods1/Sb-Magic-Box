@@ -12,29 +12,43 @@
             <div class="text-overlay" id="text-overlay"></div>
         </div>
         <div class="controls">
-            <label for="border-radius">Border Radius:</label>
-            <input type="range" id="border-radius" min="0" max="100" value="0" />
-            <span id="border-radius-value">0px</span>
+            <label>Border Radius:</label>
+            <input type="range" id="border-radius" min="0" max="50" value="0" />
 
-            <label for="border-width">Border Width:</label>
-            <input type="range" id="border-width" min="1" max="20" value="2" />
-            <span id="border-width-value">2px</span>
+            <label>Border Width:</label>
+            <input type="range" id="border-width" min="1" max="10" value="2" />
 
-            <label for="border-color">Border Color:</label>
+            <label>Border Color:</label>
             <input type="color" id="border-color" value="#000000" />
 
-            <label for="background-color">Background Color:</label>
+            <label>Background Color:</label>
             <input type="color" id="background-color" value="#ffffff" />
 
-            <label for="image-upload">Upload Image:</label>
+            <label>Upload Image:</label>
             <input type="file" id="image-upload" accept="image/*" />
+            
+            <label>Image Size:</label>
+            <input type="range" id="image-size" min="50" max="150" value="100" />
 
-            <label for="text-input">Add Text:</label>
-            <input type="text" id="text-input" placeholder="Enter your text here" />
+            <label>Move Image:</label>
+            <input type="range" id="image-position-x" min="0" max="100" value="50" />
+            <input type="range" id="image-position-y" min="0" max="100" value="50" />
 
-            <label for="text-size">Text Size:</label>
-            <input type="range" id="text-size" min="10" max="100" value="20" />
-            <span id="text-size-value">20px</span>
+            <label>Add Text:</label>
+            <input type="text" id="text-input" placeholder="Enter text here" />
+
+            <label>Text Size:</label>
+            <input type="range" id="text-size" min="10" max="50" value="20" />
+
+            <label>Move Text:</label>
+            <input type="range" id="text-position-x" min="0" max="100" value="50" />
+            <input type="range" id="text-position-y" min="0" max="100" value="50" />
+
+            <label>Text Border:</label>
+            <input type="color" id="text-border-color" value="#000000" />
+
+            <label>Text Background:</label>
+            <input type="color" id="text-background-color" value="#ffffff" />
 
             <button id="download-btn">Download Image</button>
         </div>
@@ -42,4 +56,4 @@
 
     <script src="script.js"></script>
 </body>
-    </html>
+</html>
