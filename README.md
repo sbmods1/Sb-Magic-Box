@@ -8,9 +8,11 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
 - **Border Width:** Adjust the thickness of the box's border with a range slider.
 - **Border Color:** Set the color of the box's border using a color picker.
 - **Background Color:** Choose the box's background color using a color picker.
-- **Add Text:** Input custom text to be displayed on the box, with adjustable size.
-- **Upload Image:** Add a background image to the box.
-- **Download Image:** Save your customized box as a PNG image.
+- **Add Text:** Input custom text to be displayed on the box, with adjustable size, color, and position.
+- **Move Text:** Adjust the position of the text within the box using range sliders.
+- **Upload Image:** Add a background image to the box and adjust its size and position.
+- **Move Image:** Adjust the position of the background image within the box.
+- **Download Image:** Save your customized box as a PNG image with text and images included.
 
 ## Files
 
@@ -36,3 +38,4 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
 ## Credit
 
 Credit by Sb Mods. Please join for more projects in this channel: [https://t.me/SbMods54](https://t.me/SbMods54)
+bunte from Pluto 999☺️
