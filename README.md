@@ -37,7 +37,7 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
 
 ## Bunte From Pluto 999
 
--**Bunte meow** 😼🗿 @I_Am_A_Game_Modder_01👉🗿 👈
+- **Bunte meow** 😼🗿 @I_Am_A_Game_Modder_01👉🗿 👈
 
 ## Credit
 
