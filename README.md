@@ -35,9 +35,9 @@ This project provides a customizable box using HTML, CSS, and JavaScript. Users 
 4. You can see it preview here:
    [https://sbmodsviptest.tiiny.site](https://sbmodsviptest.tiiny.site)
 
-## Bunte from Pluto 999
+## Bunte From Pluto 999
 
-Bunte meow 😼🗿
+-**Bunte meow** 😼🗿 @I_Am_A_Game_Modder_01👉🗿 👈
 
 ## Credit
 
